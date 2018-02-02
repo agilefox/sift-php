@@ -5,7 +5,7 @@ class SiftClient {
     const API3_ENDPOINT = 'https://api3.siftscience.com';
 
     // Must be kept in sync with composer.json
-    const API_VERSION = '204';
+    const API_VERSION = '205';
 
     const API3_VERSION = '3';
 
